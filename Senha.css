@@ -1,0 +1,34 @@
+body{
+    background-image: url(abstrato-preto-listras-diagonal-fundo-grátis-vetor.jpg);
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    color: gold;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    margin: 100px 0 0 550px;
+
+}
+div{
+    color: azure;
+    margin: 50px 0 0 500px;
+    font-family: Helvetica, sans-serif;
+    font-size: medium;
+}
+input{
+    color: red;
+}
+#msg{
+    margin: 0 0 50px 545px;
+} 
+.btn{
+    border: 2px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin: 50px 0 0 600px;
+    cursor: pointer;
+    border-radius: 4px;
+}

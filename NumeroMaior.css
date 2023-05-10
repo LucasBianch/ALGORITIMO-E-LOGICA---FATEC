@@ -1,0 +1,21 @@
+h1{
+    color: blueviolet;
+    margin: 0 0 0 40px;        
+}
+div{
+    margin: 10px 0 10px 40px;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+input{
+    color: blue;
+}
+#msg{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+}
+body{
+    background-image: url(Galaxy.jpg);
+    font-family: Helvetica, sans-serif;
+}

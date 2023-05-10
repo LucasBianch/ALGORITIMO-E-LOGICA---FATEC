@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somar Números</title>
+    <script src = "Atividade02.js"></script>
+</head>
+<style>
+    h1{
+        color: blue;
+    }
+    div{
+        margin-top: 5px;
+    }
+    input{
+        color: red;
+    }
+</style>
+<body>
+    <h1>Preencha os campos</h1>
+    <form>
+        Qual é o seu nome? <input type="name" id="nome">
+        <div>Digite um Número: <input type="number" id="n1"></div>
+        <div>Digite outro Número:<input type="number" id="n2"></div>
+        <div>Digite outro Número:<input type="number" id="n3"></div>
+        <div><input type="button" value="Calcular" onclick="somar()"></div>
+        <div id="msg">Sabe qual é o valor da soma desses números?</div>
+
+    </form>
+</body>
+
+</html>
